@@ -5,6 +5,7 @@ Machine Learning based iOS app with SqueezeNet
 Here's a walkthrough of the implementation:
 
 https://youtu.be/bQvWrrZz7-g
+
 Video created with QuickTime.
 
 ## License
