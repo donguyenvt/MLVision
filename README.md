@@ -4,7 +4,7 @@ Machine Learning based iOS app with SqueezeNet
 ## Video Walkthrough
 Here's a walkthrough of the implementation:
 
-<img src='https://youtu.be/bQvWrrZz7-g' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://youtu.be/bQvWrrZz7-g
 Video created with QuickTime.
 
 ## License
