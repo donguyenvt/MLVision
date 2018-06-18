@@ -15,7 +15,7 @@ class RoundedShadowView: UIView {
         self.layer.shadowRadius = 15
         self.layer.shadowOpacity = 0.75
         self.layer.cornerRadius = self.frame.height / 6
-        self.backgroundColor = UIColor.black.withAlphaComponent(0.4)
+        self.backgroundColor = UIColor.black.withAlphaComponent(0.1)
     }
 
 }
