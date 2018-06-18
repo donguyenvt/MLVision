@@ -8,6 +8,15 @@ https://youtu.be/bQvWrrZz7-g
 
 Video created with QuickTime.
 
+## Some detectable objects
+
+<img src='https://github.com/donguyenvt/MLVision/blob/master/IMG_3866.PNG' title='Obj' width='' alt='Obj' />
+<img src='https://github.com/donguyenvt/MLVision/blob/master/IMG_3871.PNG' title='Obj' width='' alt='Obj' />
+<img src='https://github.com/donguyenvt/MLVision/blob/master/IMG_3874.PNG' title='Obj' width='' alt='Obj' />
+<img src='https://github.com/donguyenvt/MLVision/blob/master/IMG_3875.PNG' title='Obj' width='' alt='Obj' />
+<img src='https://github.com/donguyenvt/MLVision/blob/master/IMG_3876.PNG' title='Obj' width='' alt='Obj' />
+<img src='https://github.com/donguyenvt/MLVision/blob/master/IMG_3877.PNG' title='Obj' width='' alt='Obj' />
+
 ## License
 
     Copyright [2018] [Nguyen Do]
